@@ -1,7 +1,6 @@
 <?php
 require_once('functions.php');
-echo "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp"."Zavdanya1"."<br>";
-zavdanya1(11,22,5,3,55,9);
+
 echo "<br>"."&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp"."Zavdanya2"."<br>";
 $array1= array(240,222,555,5464,756,854,945);
 $array2= array(945,556,1544,452,755,645,1054);
